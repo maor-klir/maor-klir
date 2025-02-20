@@ -1,7 +1,9 @@
-## Hi there, welcome to my GitHub profile 
+## Hi there, welcome to my GitHub profile 😎
 
 I'm currently transitioning into a DevOps / cloud-based role 🚀☁️
+
 I'm really passionate about everything that is related to that.
+
 This profile will serve as a playground for me to experiment, improve my skills, and solidify my knowledge.  
 
 
