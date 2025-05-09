@@ -1,28 +1,13 @@
-## Hi there, welcome to my GitHub profile 😎
+## Hi there stranger, welcome to my GitHub profile 😎
 
-I'm currently transitioning into a DevOps / cloud-based role 🚀☁️
+I'm currently on a journey transitioning into a DevOps / cloud based role 🚀☁️
 
-I'm really passionate about everything that is related to that.
+I'm extremely passionate about everything that relates to that.
 
-This profile will serve as a playground for me to experiment, improve my skills, and solidify my knowledge.  
+This profile hosts my hands-on playground in which I am experimenting and leveling up my skills. 
 
-
-
-
-
-
+It serves as a space to explore new technologies, build strong foundational knowledge, and achieve proficiency. 
 
 <!--
 **maor-klir/maor-klir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
